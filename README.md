@@ -1,0 +1,2 @@
+# postgraduate-D55
+Today I was in a muddle. I reviewed the data structure of the day. Although I knew what the teacher might do, I didn't expect the teacher to test a reverse adjacency table. I really didn't expect this. I reviewed all the others, but I didn't learn it again. Today I went to print the recommendation letter. I haven't updated my GitHub for a long time, There are too many things to say today. I just hope that the data structure can give me more than 90 points. Now it's hard to be carried away by wireless sensors in the library.
